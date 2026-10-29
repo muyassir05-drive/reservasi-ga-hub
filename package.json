@@ -1,0 +1,8 @@
+{
+  "name": "tcid-ga-vehicle-reservation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"create-users": "node scripts/create-users.mjs"},
+  "dependencies": {"@supabase/supabase-js": "^2.57.0"}
+}
